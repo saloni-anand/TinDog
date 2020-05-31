@@ -1,5 +1,7 @@
 # TinDog
 This repository serves to document my learning of Bootstrap via a tutorial to create a website for a dog tinder app.  
+Exercise from Angela Yu Udemy Course
+
 
 # Images
 ![Screenshot (54)](https://user-images.githubusercontent.com/51950069/78827894-7da8ec80-7a01-11ea-8f0c-c6757c77878b.png)
